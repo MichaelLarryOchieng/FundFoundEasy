@@ -209,6 +209,3 @@ text
 ```bash
 cd /home/michael/Downloads/FundFoundEasy
 
-git add README.md docs/
-git commit -m "Add README with screenshots and project documentation"
-git push
