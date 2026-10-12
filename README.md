@@ -57,6 +57,9 @@ Users can browse live auctions, place bids, and track their wins — while admin
 ### Login
 ![Login](docs/screenshots/06-login.png)
 
+### Cart
+[Cart](docs/ screenshots/07-cart.png)
+
 ---
 
 ## 🛠️ Tech Stack
@@ -192,8 +195,6 @@ FundFoundEasy/
 MIT — free to use, learn from, and modify.
 
 📬 Contact
-Michael Larry Ochieng
-
 GitHub: @MichaelLarryOchieng
 
 Email: ochiengmichaellarry@gmail.com
@@ -204,8 +205,4 @@ text
 
 ---
 
-## 🚀 Step 3 — Push to GitHub
-
-```bash
-cd /home/michael/Downloads/FundFoundEasy
 
